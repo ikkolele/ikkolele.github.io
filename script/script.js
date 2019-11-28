@@ -191,6 +191,16 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #7A5D00, #E7F708)',
       icon: 'jf',
       quickLaunch: false,
+    },
+	{
+      category: 'Tools',
+      name: 'Dev Sheet',
+      key: 'd',
+      url: 'https://devhints.io/',
+      search: '/find?ref_=nv_sr_fn&q={}',
+      color: 'linear-gradient(135deg, #6A5A00, #E7F708)',
+      icon: 'sheet',
+      quickLaunch: false,
     }
   ],
 
