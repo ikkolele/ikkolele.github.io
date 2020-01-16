@@ -143,6 +143,15 @@ const CONFIG = {
       icon: 'sonarqube',
       quickLaunch: false,
     },
+	{
+      category: 'DSS',
+      name: 'Jenkins',
+      key: 'j',
+      url: 'https://jenkins.ap.manulife.com/blueocean/',
+      color: 'linear-gradient(135deg, #6451a5, #99367c)',
+      icon: 'jenkins',
+      quickLaunch: false,
+    },
     {
       category: 'DSS',
       name: 'ML Online - Dev',
@@ -151,15 +160,6 @@ const CONFIG = {
       search: '/directory/game/{}',
       color: 'linear-gradient(135deg, #6441a5, #4b367c)',
       icon: 'mfc',
-      quickLaunch: false,
-    },
-	{
-      category: 'DSS',
-      name: 'Jenkins',
-      key: 'j',
-      url: 'https://jenkins.ap.manulife.com/blueocean/',
-      color: 'linear-gradient(135deg, #6451a5, #99367c)',
-      icon: 'jenkins',
       quickLaunch: false,
     },
     {
