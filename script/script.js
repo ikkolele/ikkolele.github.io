@@ -56,6 +56,16 @@ const CONFIG = {
     },
 	{
       category: 'Manulife',
+      name: 'OneDrive',
+      key: 'o',
+      url: 'https://mfc-my.sharepoint.com/personal/cruzric_mfcgd_com/_layouts/15/onedrive.aspx',
+      search: '/#search/text={}',
+      color: 'linear-gradient(135deg, #aa5145, #cc5145)',
+      icon: 'onedrive',
+      quickLaunch: false,
+    },
+	{
+      category: 'Manulife',
       name: 'Planview',
       key: 'p',
       url: 'https://manulifegf.pvcloud.com/planview/MyPlanview/MyPlanview.aspx?ptab=HV_DASH&pt=HOMEVIEW&scode=$None',
@@ -150,6 +160,15 @@ const CONFIG = {
       url: 'https://jenkins.ap.manulife.com/blueocean/',
       color: 'linear-gradient(135deg, #6451a5, #99367c)',
       icon: 'jenkins',
+      quickLaunch: false,
+    },
+	{
+      category: 'DSS',
+      name: 'Fortify SSC',
+      key: 'F',
+      url: 'https://azwappirmfty01.mfcgd.com/ssc/html#!/',
+      color: 'linear-gradient(135deg, #ac51a5, #bd367c)',
+      icon: 'microfocus',
       quickLaunch: false,
     },
     {
