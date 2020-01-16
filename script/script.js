@@ -153,6 +153,15 @@ const CONFIG = {
       icon: 'mfc',
       quickLaunch: false,
     },
+	{
+      category: 'DSS',
+      name: 'Jenkins',
+      key: 'j',
+      url: 'https://jenkins.ap.manulife.com/blueocean/',
+      color: 'linear-gradient(135deg, #6451a5, #99367c)',
+      icon: 'jenkins',
+      quickLaunch: false,
+    },
     {
       category: 'Tools',
       name: 'Planck',
